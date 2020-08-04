@@ -1,13 +1,17 @@
 {
-  "id": 1,
-  "Trendsone": "Ram Mandir is all set for Bhumi Pooja and will   start construction and finish ass soon as possible.",
-  "Trendstwo": "Galaxy Note20 will be realeased on August 5th.",
-  "Trendsthree": "Galaxy Note 20 to realesed in 3 variants.",
-  "Trendsfour": "Cornora still on the raise.",
-  "Trendsfive": "Galaxy Note20 will be realeased on August 5th.",
-  "Trendssix": "Galaxy Note20 will be realeased on August 5th.",
-  "Trendsseven": "Galaxy Note20 will be realeased on August 5th.",
-  "Trendseight": "Galaxy Note20 will be realeased on August 5th.",
-  "Trendsnine": "Galaxy Note20 will be realeased on August 5th.",
-  "Trendsten": "Galaxy Note20 will be realeased on August 5th."
+  "Importantnewsreport": [
+    {
+   "id": 1,
+      "Trendone": "Ram Mandir is all set for Bhumi Pooja and will   start construction and finish ass soon as possible.",
+      "Trendtwo": "Galaxy Note20 will be realeased on August 5th.",
+      "Trendthree": "Galaxy Note 20 to realesed in 3 variants.",
+      "Trendfour": "Cornora still on the raise.",
+      "Trendfive": "Galaxy Note20 will be realeased on August 5th.",
+      "Trendsix": "Galaxy Note20 will be realeased on August 5th.",
+      "Trendseven": "Galaxy Note20 will be realeased on August 5th.",
+      "Trendeight": "Galaxy Note20 will be realeased on August 5th.",
+      "Trendnine": "Galaxy Note20 will be realeased on August 5th.",
+      "Trendten": "Galaxy Note20 will be realeased on August 5th."
+    }
+  ]
 }
